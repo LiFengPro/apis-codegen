@@ -1,1 +1,2 @@
-# apis_code_gen
+# apis-codegen
+Generate python endpoints and models for RESTful apis.
